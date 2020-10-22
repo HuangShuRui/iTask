@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.212.222/iTask.ipa</string>
+                    <string>http://192.168.244.129/iTask.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
